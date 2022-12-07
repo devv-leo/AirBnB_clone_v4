@@ -209,6 +209,7 @@ Repo forked from the V3 made by:
  * Kimberly Wong, [kjowong](https://github.com/kjowong) | [@kjowong](https://twitter.com/kjowong) | [kjowong@gmail.com](kjowong@gmail.com)
  * Carrie Ybay, [hicarrie](https://github.com/hicarrie) | [@hicarrie_](https://twitter.com/hicarrie_)
  * Jared Heck, [jarehec](https://github.com/jarehec) | [@jarehec](https://twitter.com/jarehec)
+ * Lekan Olaoye, [devv-leo](https://github.com/devv-leo) | [@dev_leoo](https://twitter.com/dev_leoo)
 
 V4 made by:
  * Laura Roudge, [lroudge](https://github.com/lroudge) | [@LRoudge](https://twitter.com/LRoudge) | [/in/lauraroudge](https://www.linkedin.com/in/lauraroudge/): Full-stack Software Engineer, passionate about helping and teachings peers, located in the Paris area, France.
